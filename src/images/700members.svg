@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 211.92 126.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+        font-size: 35px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: SegoeUIVariable-BoldSmall, 'Segoe UI Variable';
+        font-variation-settings: 'wght' 700, 'opsz' 8;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #ed1c24;
+        font-size: 86px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-2" transform="translate(.09 73.35) rotate(-.07)"><tspan x="0" y="0">700+</tspan></text>
+      <text class="cls-1" transform="translate(12.2 116.37) rotate(-.07)"><tspan x="0" y="0">Attendees</tspan></text>
+    </g>
+  </g>
+</svg>

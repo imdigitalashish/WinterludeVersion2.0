@@ -1,0 +1,18 @@
+.joinUsButton {
+    font-size: 20px;
+    color: white;
+    background: rgb(42, 148, 76);
+    border-radius: 30px;
+    padding-block: 1.2rem;
+    padding-inline: 2rem;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    transition: all 0.6s;
+    cursor: pointer;
+    z-index: 200;
+}
+
+.joinUsButton:hover {
+    transform: scale(1.08);
+}

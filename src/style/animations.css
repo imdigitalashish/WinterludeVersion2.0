@@ -1,0 +1,67 @@
+@keyframes springish {
+  0.00% {transform: translateY(-99.91px);}
+  8.38% {transform: translateY(50.19px);}
+  17.54% {transform: translateY(-24.30px);}
+  26.70% {transform: translateY(11.76px);}
+  35.87% {transform: translateY(-5.69px);}
+  45.03% {transform: translateY(2.76px);}
+  54.19% {transform: translateY(-1.33px);}
+  63.35% {transform: translateY(0.65px);}
+  72.51% {transform: translateY(-0.31px);}
+  81.68% {transform: translateY(0.15px);}
+  90.84% {transform: translateY(-0.07px);}
+  100.00% {transform: translateY(0.04px);}
+}
+.springish-G {
+  animation: springish; 
+  animation-iteration-count: 1;
+  animation-duration: 6.52s;
+  animation-timing-function: cubic-bezier(0.445,  0.050, 0.550, 0.950);
+}
+.springish-D {
+  animation: springish; 
+  animation-iteration-count: 1;
+  animation-duration: 4.52s;
+  animation-timing-function: cubic-bezier(0.445,  0.050, 0.550, 0.950);
+}
+.springish-S {
+  animation: springish; 
+  animation-iteration-count: 1;
+  animation-duration: 5.52s;
+  animation-timing-function: cubic-bezier(0.445,  0.050, 0.550, 0.950);
+}
+.springish-C {
+  animation: springish; 
+  animation-iteration-count: 1;
+  animation-duration: 6.52s;
+  animation-timing-function: cubic-bezier(0.445,  0.050, 0.550, 0.950);
+}
+
+
+@keyframes bounce {
+  0.00% {transform: translateY(-10.91px);}
+  8.38% {transform: translateY(6.19px);}
+  17.54% {transform: translateY(-6.30px);}
+  26.70% {transform: translateY(4.76px);}
+  35.87% {transform: translateY(-4.69px);}
+  45.03% {transform: translateY(1.76px);}
+  54.19% {transform: translateY(-1.33px);}
+  63.35% {transform: translateY(0.65px);}
+  72.51% {transform: translateY(-0.31px);}
+  81.68% {transform: translateY(0.15px);}
+  90.84% {transform: translateY(-0.07px);}
+  100.00% {transform: translateY(0.04px);}
+}
+
+.bounce{
+  animation: bounce; 
+  animation-iteration-count: 1;
+  animation-duration: 4.52s;
+  animation-timing-function: cubic-bezier(0.445,  0.050, 0.550, 0.950);
+}
+.bounce2{
+  animation: bounce; 
+  animation-iteration-count: 1;
+  animation-duration: 6.52s;
+  animation-timing-function: cubic-bezier(0.445,  0.050, 0.550, 0.950);
+}
